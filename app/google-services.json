@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359419409540",
+    "project_id": "fir-notifapp-99ed2",
+    "storage_bucket": "fir-notifapp-99ed2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359419409540:android:14e300e672a6a5675f3ed1",
+        "android_client_info": {
+          "package_name": "com.example.firebasenotifapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359419409540-lgere7t27r3b15eaingcuqhipo2ppviv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7yJ_KxYJq2LIAcCz6cBhWKT9x-7MilR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359419409540-lgere7t27r3b15eaingcuqhipo2ppviv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
